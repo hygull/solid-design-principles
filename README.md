@@ -1,8 +1,4 @@
-# solid-design-principles
-
-The repository containing the details (examples, code, explanations) related to SOLID principles (Solid design principles).
-
-# SOLID PRINCIPLES
+# <h1 style='color=green;'>SOLID principles</h1>
 
 SOLID is an acronym for five fundamental principles of object-oriented programming (OOP) that help developers create more maintainable, flexible, and scalable software. The concepts, compiled by Robert C. Martin ("Uncle Bob") in the early 2000s, guide engineers to build code that is less tightly coupled and more resilient to change. 
 
