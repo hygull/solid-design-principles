@@ -25,3 +25,4 @@ SOLID principles improve maintainability, flexibility, and scalability by making
 
 ## Potential drawbacks
 Applying SOLID can sometimes increase complexity, especially in simpler projects, and requires experience to avoid "over-engineering". The principles demand careful consideration of the project's context, as blind adherence might lead to less efficient code. 
+
